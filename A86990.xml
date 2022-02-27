@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands diurnall, or Passages of state, executed by (and against) the knowne law of the land. VVith certain queries, wherefore, and by what law, so many things have been done contrary to the known law of the land.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86990</idno>
+            <idno type="STC">Wing H45A</idno>
+            <idno type="STC">Thomason E91_35</idno>
+            <idno type="STC">ESTC R12433</idno>
+            <idno type="EEBO-CITATION">99859284</idno>
+            <idno type="PROQUEST">99859284</idno>
+            <idno type="VID">111356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86990)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111356)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands diurnall, or Passages of state, executed by (and against) the knowne law of the land. VVith certain queries, wherefore, and by what law, so many things have been done contrary to the known law of the land.</title>
+                  <author>I. H.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, of Englands feare, beeing the first of Reformation or Desolation [1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: I. H.</note>
+                  <note>Imperfect: upper margin closely trimmed affecting pagination.</note>
+                  <note>Annotation on Thomason copy: "March 4, 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and govenment --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111356:1" rendition="simple:additions"/>
+            <p>Englands Diurnall, OR PASSAGES OF STATE, Executed by (and againſt) the knowne Law of the Land. VVith certain Queries, wherefore, and by what Law, ſo many things have been done contrary to the known Law of the Land.</p>
+            <p>Printed in the yeare, of <hi>Englands</hi> feare, Beeing the firſt of Reformation or Deſolation.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111356:2"/>
+            <pb facs="tcp:111356:2"/>
+            <head>Englands Diurnal, OR Paſſages of State, executed by, &amp; againſt the known Law of the Land.</head>
+            <p>THe firſt matter of conſequence which claimes precoſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cie in this diſcourſe, is his Majeſties departure from his Court of <hi>Whitehall,</hi> which indeed was the firſt and prin<g ref="char:EOLhyphen"/>cipall begining of theſe enſuing and ſince ſucceeding mi<g ref="char:EOLhyphen"/>ſeries, this was the roote from whence hath ſprung all theſe fol<g ref="char:EOLhyphen"/>lowing miſchiefs; for the Papiſts and other evill affected perſons by this meanes gained time and opportunity to worke their per<g ref="char:EOLhyphen"/>nitions and wicked ends, both to the ruine of his Royall Majeſty, and the whole Kingdome, labouring to deſtroy both the Religi<g ref="char:EOLhyphen"/>on and Lawes of the Land, as by the ſequell may appeare.</p>
+            <p n="1">1. By the powerfull working of theſe evill affected perſons, the <hi>Queen</hi> was ſent into <hi>Holland,</hi> and the Jewels of the <hi>Crowne</hi> paw<g ref="char:EOLhyphen"/>ned and made away to porch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe Armes to be imployed for the de<g ref="char:EOLhyphen"/>ſtruction of the ſame <hi>Crown,</hi> for take away Religion and Law, the ſupporters of the <hi>Crowne,</hi> and conſequently the <hi>Crown</hi> muſt fall, and looſe its luſture, take away the purity of Religion, and the Juſtice of the Law, and then conſequently
+<hi>Atheſme</hi> and <hi>Ti<g ref="char:EOLhyphen"/>rany</hi> muſt be the grand ſupporters, than this hath been the practice of theſe men is apparent, as followeth.</p>
+            <p>Thoſe men that ſhall and doe labour to deſtroy the Religion of a Land, which is grounded upon ſaving Faith, and warranted by Holy writ, and endeavour to introduce and bring in a Religion neither grounded upon Faith, nor warranted by ſcripture, doe as much as in them lies to deſtroy the Preachers and Preaching of the Goſpell on Earth, and in ſo doing doth abſolutely deny the power
+<pb facs="tcp:111356:3"/>of God in heaven, and to deny God and his power, who is it one Atheſme, the Papiſts have endea vou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed this it is apparent, and thence I conclude that their endea vouring the deſtruction of Re<g ref="char:EOLhyphen"/>ligion hath declared their intention to introduce Popery, which is in ſome points abſolute Atheſme.</p>
+            <p n="2">2. Thoſe men which ſhall by their practizes endeavour to ſub<g ref="char:EOLhyphen"/>vert the Lawes of a Land, or to hinder the due execution of the Lawes againſt thoſe that by delinquency have made breach there<g ref="char:EOLhyphen"/>of, doe as much as in them lyes to deſtroy the Lawes, for take a<g ref="char:EOLhyphen"/>way the power of the Law it muſt needs be of no effect, when the Subject (groaning under the preſſure of Arbitrary and Tirani<g ref="char:EOLhyphen"/>call oppreſſions) ſhall repaire to the Lawes (which ſhould be the protectron of the Subject) and ſhall expect Juſtice from the Law, and that Law which was at firſt ordained for the ſame end, ſhall be imployed againſt it ſelfe, and in ſtead of Juſtice, the Subject ſo complaining ſhall moſt unlawfully and moſt unjuſtly be cenſured, (contrary to Law) according to the diſpoſition of thoſe Law-breakers, is not this abſolute Tirany, is not this to deſtroy the Lawes of the Land.</p>
+            <p>That this is apparent, and hath been frequently done in the <hi>Starchamber, High-Commiſſion,</hi> and indeed in moſt Courts of the Kingdome, where the Purſe paid for Judgement, &amp; Juſtice was ſold by the ounce, witneſſe Maſter <hi>Hambdens Caſe of Ship-money,</hi> the Lawes were abuſed, the ſubject groaning under an almoſt Arbi<g ref="char:EOLhyphen"/>trary Government, Taxes upon Taxes following one in the necke of another, Levies muſt be made through the Kingdome for the maintenance of a ſuperfluous Army, in the defence of an Ecleſiaſti<g ref="char:EOLhyphen"/>call Fancy, againſt the Kingdome of Scotland, theſe and innume<g ref="char:EOLhyphen"/>rable more incumbrances and grievances cauſed him to complaine, for which (in ſtead of redreſſe, which the Law if not abuſed, had affoorded him) he was toſt too and fro, from one Court to ano<g ref="char:EOLhyphen"/>ther, Fine upon Fine, Judgement upon Judgement, his Eſtate confiſcate, and his perſon impriſoned, now let the world be judge whether this were not abſolute Tirany.</p>
+            <p>Having as they conceived brought their buſineſſe to faire growth and finding that there might be danger in their ſtaying neere or a<g ref="char:EOLhyphen"/>bout London, the Parliament having diſcovered their hypocriſie, and begunne to impriſon ſome of the chiefe of their Ringleaders,
+<pb facs="tcp:111356:3"/>there<g ref="char:EOLhyphen"/>fore they perſwaded his Majeſtie to make his refid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce in York a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe remote, where they likewiſe projected the vay ſing of this Ar<g ref="char:EOLhyphen"/>my for the abetting and maintaining of their Atheſtieall Aſſerti<g ref="char:EOLhyphen"/>ons, which was done under the Notion of ſtanding for the defence of his Majeſties Prerogative and the known Lawes of the land, with the Liberty of the Subject now let us examine what hath been done by them either agreeable to the known Law of the land or conduceable to the benefit, Liberty, or property of the ſubject.</p>
+            <p n="1">1. By what known Law was there Commiſſions of <hi>Array</hi> ſent out into every County of this Kingdome to ray ſe Armes, there being no Forraigne Invaſion, nor feare of any, but of their owne Complices and Allies which they invited and ſent for.</p>
+            <p n="2">2. By what known Law were ſeverall Members of both Hou<g ref="char:EOLhyphen"/>ſes ſent for to
+<hi>Yorke,</hi> and diſcharged their attendance, contrary to their Oaths taken at their Elections, before the reſpective Counties, for and by whom they were choſen.</p>
+            <p n="3">3. By what known Law were perſons entertained and im<g ref="char:EOLhyphen"/>ployed in places of Command in the Army, (called by the name of the Kings Army) which are known Tray tors according to the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> known Lawes of the Land, and protected from the Juſtice of the known Law, contrary to known Law.</p>
+            <p n="4">4. By what known Law have ſeverall Perſons that have been known Rebels in
+<hi>Ireland,</hi> been likewiſe entertained, and held in great reſpect.</p>
+            <p n="5">5. By what known Law were the Papiſts of this Kingdome ſuffered to have Armes, and not onely ſuffered but Armes deli<g ref="char:EOLhyphen"/>vered unto them, and Commiſſions granted them to raiſe Papiſts when it is known that by the knowne Law of the Land, no Pa<g ref="char:EOLhyphen"/>piſt convicted ſhould be ſuffered to have any Armes for himſelfe, muchleſſe to have power to Arme other Papiſts.</p>
+            <p n="6">6. By what known Law have Papiſts been permitted to at<g ref="char:EOLhyphen"/>tend his Majeſty even at his table, and in his Chamber, (<hi>Vide E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dimion Porter,</hi> who would go to Church in the morning, and to Maſſe in the Evening, when by the known Law of the Land no Papiſt ought to come within ten Miles of the Court, much leſſe into his Majeſties Chamber.</p>
+            <p n="7">
+               <pb facs="tcp:111356:4"/> By what known Law hath ſo many practices been to diſolve this Parliament, which was eſtabliſhed by a knowne Law made this Parliament, and graciouſly confirmed by his Majeſty in, and to this Parliament.</p>
+            <p>As touching their bare pretences of ſtanding for the Liberty of the Subject.</p>
+            <p>Was it for the Liberty of the Subject that the Trained Bands were ſummoned, and diſarmed, in ſeverall Counties?</p>
+            <p>Was it for the Liberty of the Subject, that this Army was ray<g ref="char:EOLhyphen"/>ſed to plunder and rob the Inhabitants of Cities, Townes, Corpora<g ref="char:EOLhyphen"/>tions and Villages?</p>
+            <p>Was it for the Liberty of the Subject, that <hi>Hull</hi> was invaded. <hi>Kingſton</hi> and
+<hi>Brainford</hi> plundered, the Inhabitants of <hi>Ciciter</hi> murdered and deſtroyed?</p>
+            <p>Was it for the Liberty of the Subject that the City of <hi>Weſt<g ref="char:EOLhyphen"/>cheſter</hi> was ſurprized, and made a receptackle for Papiſts, and an Inne to entertain Rebels out of Ireland, who no doubt if they be not prevented will eaſily be perſwaded to aſiſt the adverſe party in the purſuance of thoſe Deſignes which they have now on foot, the promoting of which conduceth ſo much to the furthe<g ref="char:EOLhyphen"/>rance of their deteſted Rebellion in <hi>Ireland?</hi>
+            </p>
+            <p>Now if theſe things have been done by the knowne Lawes of the Land, or for the Liberty of the Subject, Let all men that are not either wilfull or ignorant judge.</p>
+            <p>But now on the contrary part, let us examine what hath been done by the known Lawes, and for the maintenance and prefer<g ref="char:EOLhyphen"/>vation of the Liberty of the Subject, and then we ſhall eaſily be reſolved in that grand Caſe of Conſcience, whether we have moſt reaſon to ſtand for the King and Parliament, or for the King a<g ref="char:EOLhyphen"/>gainſt the parliament.</p>
+            <p n="1">1. <hi>For the</hi> Militia, <hi>the thing that they make the grand occaſion of theſe differences.</hi>
+            </p>
+            <p>As touching his Maieſties power over the Militia, it is mani<g ref="char:EOLhyphen"/>feſt that his Majeſties Lievetenantſhip was void at the coming to<g ref="char:EOLhyphen"/>gether of this Parliament, and beeing void, it muſt neceſſarily fol<g ref="char:EOLhyphen"/>low, that if the coming together of the Parliament made his Ma<g ref="char:EOLhyphen"/>jeſties Lievetenantſhip void, that they then have at the leaſt a ne<g ref="char:EOLhyphen"/>gative voice in the diſpoſall thereof, for without doubt, had non
+<pb facs="tcp:111356:4"/>his Majeſty found that the ſafety of the Kingdome conſiſted in the calling of this Parliament, the Parliament had never beene called and if they were called to conſult and to order thoſe things which did conduce moſt to the ſafety of the Kingdome, (and could not be done without them) then conſequently the <hi>Militia,</hi> (in the or<g ref="char:EOLhyphen"/>dering and diſpoſing of which, conſiſts the onely ſafety of the Kingdome) muſt neceſſarily reſt at their diſpoſe.</p>
+            <p>
+               <hi>Object.</hi> But it is objected, that though the Parliament have this power in the diſpoſall yet they are not to make uſe of that power without his Majeſties Aſſent.</p>
+            <p>
+               <hi>Anſ.</hi> Tis true his Majeſties aſſent ought to be thereunto, but if his Majeſtie diſſenting, ſhall neglect that charge committed to him, ſhall the Parliament therefore make that their preſident, and ſuffer the Kingdome to lye open to forraigne Invaſion, and Do<g ref="char:EOLhyphen"/>meſticke Innovaſion, becauſe his Majeſty did not conſent to the paſſing of a Bill for the future eſtabliſhment of the <hi>Militia</hi> for the ſecurity of the Kingdome, therefore the Parliament muſt not by an Ordinance (according to the knowne Law) provide for the preſent diſpoſall thereof, to the end that the Kingdome may be put into a poſture of defence, and be inabled to defend it ſelfe againſt all thoſe that envie the peace of this Kingdome, though by the known Law of the Land, they were called for that purpoſe.</p>
+            <p>The ſecond objection is that the Parliament cannot rayſe an Army without his Majeſties aſſent thereunto, when on the con<g ref="char:EOLhyphen"/>trary I will prove, that by the known Law of the Land the Par<g ref="char:EOLhyphen"/>liament hath rayſed this Army, and that by the ſame known Law, they have power to impoſe contributions on the Subject to main<g ref="char:EOLhyphen"/>tain the preſent warre againſt thoſe that labour to invade the Re<g ref="char:EOLhyphen"/>ligion and Lawes of the Kingdome.</p>
+            <p>It is manifeſt that every Court of the Kingdome, eſtabliſhed by the Lawes of the Land and the Authority of Parliament, hath a power by writs to command before them all ſuch perſons as ſhall be for any lawfull cauſe complained of, and indited in the ſaid Court, and if the perſons ſo commanded, or ſerved with ſuch Writs, ſhall deny to obey their Writs, by vertue of the ſaid War<g ref="char:EOLhyphen"/>rant the reſpective Officers haue power to call to their aid and aſ<g ref="char:EOLhyphen"/>ſiſtance all ſuch perſons as they ſhall thinke convenient, to the end that the ſaid Perſons ſo refuſing and reſiſting, may be made to an<g ref="char:EOLhyphen"/>ſwer
+<pb facs="tcp:111356:5"/>the Law in all and every particular which ſhall be objected againſt them; Now there is no Court of Juſtice in this Kingdom but hath had its firſt originall conſtitution from the Parliaments of England, and it would ſeeme very prepoſterus, that inferior Courts ſhould have a power impoſed upon them by the authority of the Law, and the Judgement of Parliament, and the Parliament it ſelfe (which is the ſuperior Court, from whom all other Courts had their beginings) ſhould be denied that power by writ to com<g ref="char:EOLhyphen"/>mand Delinquents before them, (and in caſe the Perſons comman<g ref="char:EOLhyphen"/>ded ſhall not onely refuſe, but ſhalbe protected) to raiſe ſufficient ſtrength to fetch all ſuch perſons ſo refuſing, or protected, and it would likewiſe ſeeme a very prepoſterous thing, that the Law ſhould give them power to raiſe an Army for this end, and deny them meanes to maintaine the Army ſo rayſed, neither is the ray<g ref="char:EOLhyphen"/>ſing of the ſaid Army, or the impoſing of contributions upon the Subject for the maintenance of the ſaid Army, any way deſtruc<g ref="char:EOLhyphen"/>tive to the Liberty of the Subject, ſince what is impoſed is but a reaſonable contribution for the maintenance of that Army which is imployed againſt thoſe that labour to deſtroy it, and the known Law of the Land, as I have formerly proved, and therefore it is a vain and fooliſh reſolution which ſome men have taken up, pre<g ref="char:EOLhyphen"/>tending that they will not take up Armes againſt the King, nor aſ<g ref="char:EOLhyphen"/>ſiſt the Parliament againſt the King, never remembring the diffe<g ref="char:EOLhyphen"/>rence between his perſon and his Office; thus ending the laſt Yeares Diurnall, I leave you to this Yeares recantation, and reſt,</p>
+            <closer>
+               <signed>Your Friend if you pleaſe<g ref="char:punc">▪</g> if not I care not. I. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
